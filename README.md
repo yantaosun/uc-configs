@@ -4,7 +4,7 @@ uc project some configs
 第三方登录
 
 回调地址统一为：
-       http://uc-gateway.61zrzr.com/uc-moudle-user/login/callback/{git,qq,微信}
+       http://uc-gateway.61zrzr.com/uc-moudle-user/login/callback/{git,qq,wx,wb}
 
 微博：
 App Key：3271903632
