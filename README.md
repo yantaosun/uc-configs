@@ -88,3 +88,17 @@ http://uc-gateway.61zrzr.com/uc-moudle-user/login/callback/github
     "created_at": "2017-05-06T08:08:09Z",
     "updated_at": "2017-05-06T08:16:22Z"
 }
+
+微信：
+返回值：
+{   
+  "openid":" OPENID",
+  "nickname": NICKNAME,
+  "sex":"1",
+  "province":"PROVINCE",
+  "city":"CITY",
+  "country":"COUNTRY",
+  "headimgurl":       "",
+  "privilege":[ "PRIVILEGE1" "PRIVILEGE2"     ],
+  "unionid": "o6_bmasdasdsad6_2sgVt7hMZOPfL"
+}
